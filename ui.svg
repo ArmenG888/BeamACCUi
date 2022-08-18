@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 300" style="enable-background:new 0 0 400 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:url(#SVGID_1_);stroke:url(#SVGID_2_);stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Candara';}
+	.st4{font-size:125px;}
+	.st5{font-size:48px;}
+	.st6{font-size:18px;}
+	.st7{font-size:10px;}
+</style>
+<rect x="0" width="400" height="299"/>
+<image style="overflow:visible;opacity:0;" width="431" height="330" xlink:href="../../../../../../Screenshot 2022-08-17 174545.png"  transform="matrix(0.9281 0 0 0.906 0 0)">
+</image>
+<g>
+	<path class="st0" d="M248.6,84c-53.9,0-97.7,42.2-97.7,94.2c0,26.9,11.7,51.1,30.4,68.2l84.7-108.2l77.8,60.9
+		c1.6-6.8,2.4-13.8,2.4-21C346.3,126.2,302.6,84,248.6,84z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="145.6412" y1="165.5476" x2="352.6179" y2="165.5476">
+		<stop  offset="0" style="stop-color:#EEEEEE"/>
+		<stop  offset="0.3504" style="stop-color:#EEECEC"/>
+		<stop  offset="0.4766" style="stop-color:#EFE5E6"/>
+		<stop  offset="0.5666" style="stop-color:#EFDADA"/>
+		<stop  offset="0.6394" style="stop-color:#F1C9CA"/>
+		<stop  offset="0.7017" style="stop-color:#F2B3B4"/>
+		<stop  offset="0.7569" style="stop-color:#F4979A"/>
+		<stop  offset="0.8069" style="stop-color:#F7777A"/>
+		<stop  offset="0.8528" style="stop-color:#F95156"/>
+		<stop  offset="0.8936" style="stop-color:#FC282E"/>
+		<stop  offset="0.9274" style="stop-color:#FF0007"/>
+	</linearGradient>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="145.1412" y1="165.6749" x2="353.1179" y2="165.6749">
+		<stop  offset="0" style="stop-color:#EEEEEE"/>
+		<stop  offset="0.3504" style="stop-color:#EEECEC"/>
+		<stop  offset="0.4766" style="stop-color:#EFE5E6"/>
+		<stop  offset="0.5666" style="stop-color:#EFDADA"/>
+		<stop  offset="0.6394" style="stop-color:#F1C9CA"/>
+		<stop  offset="0.7017" style="stop-color:#F2B3B4"/>
+		<stop  offset="0.7569" style="stop-color:#F4979A"/>
+		<stop  offset="0.8069" style="stop-color:#F7777A"/>
+		<stop  offset="0.8528" style="stop-color:#F95156"/>
+		<stop  offset="0.8936" style="stop-color:#FC282E"/>
+		<stop  offset="0.9274" style="stop-color:#FF0007"/>
+	</linearGradient>
+	<path class="st1" d="M151,178.2c0-52,43.7-94.2,97.7-94.2s97.7,42.2,97.7,94.2c0,7.2-0.8,14.2-2.4,21l6.1,4.8
+		c1.7-7.4,2.6-15.2,2.6-23.2c0-57.2-46.3-103.5-103.5-103.5s-103.5,46.3-103.5,103.5c0,28.4,11.5,54.1,30,72.8l5.7-7.3
+		C162.6,229.3,151,205.1,151,178.2z"/>
+</g>
+<text transform="matrix(0.9836 0 0 1 179.8592 213.8988)" class="st2 st3 st4">N</text>
+<text transform="matrix(1 0 0 1 303.4479 197.9771)" class="st2 st3 st5">0</text>
+<text transform="matrix(1 0 0 1 263.5813 165.5476)" class="st2 st3 st6">km/h</text>
+<text transform="matrix(1 0 0 1 357.601 99.9703)" class="st2 st3 st6">0</text>
+<text transform="matrix(1 0 0 1 346.3057 109.9371)" class="st2 st3 st7">RPM</text>
+<rect x="247.7" y="234.8" class="st2" width="139.7" height="12.6"/>
+<rect x="247.7" y="250.5" class="st2" width="139.7" height="12.6"/>
+<rect x="317.5" y="266.2" class="st2" width="70.2" height="12.6"/>
+</svg>
